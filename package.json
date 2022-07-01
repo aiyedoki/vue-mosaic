@@ -1,0 +1,20 @@
+{
+  "name": "@kidoki/vue-mosaic",
+  "version": "0.0.3",
+  "description": "Vue module, which is used to convert html content into mosaic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aiyedoki/vue-mosaic.git"
+  },
+  "keywords": [
+    "前端",
+    "Vue",
+    "Vue插件"
+  ],
+  "author": "kidoki",
+  "license": "ISC"
+}
