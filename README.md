@@ -20,13 +20,13 @@ Vue模块，用于在应用程序中对元素进行打码。该项目的一些�
 - [Requirements](#Requirements)
 - [Installation](#Installation)
 
-    - [文字打码](#1、文字打码)
+    - [文字打码](#文字打码)
 
-    - [图片打码](#2、图片打码)
+    - [图片打码](#图片打码)
 
-    - [懒加载](#3、懒加载)
-- [Authors && Contributors](#Authors && Contributors)
-- [License](#license)
+    - [懒加载](#懒加载)
+- [Authors && Contributors](#Authors-&&-Contributors)
+- [License](#License)
 
 # Demo
 
@@ -54,7 +54,7 @@ import mosaic from '@kidoki/vue-mosaic'
 createApp(App).use(store).use(router).use(mosaic).mount('#app')
 ```
 
-### 1、文字打码
+### 文字打码
 
 >  仅填入文字 则默认为普通马赛克
 
@@ -85,7 +85,7 @@ createApp(App).use(store).use(router).use(mosaic).mount('#app')
 > | ---- | ----- | ----- | ----- |
 > | 0px  | 2px   | 4px   | 20px  |
 
-### 2、图片打码
+### 图片打码
 
 基本使用：
 
@@ -155,7 +155,7 @@ pattern除了普通的马赛克样式，组件内提供了10种带图案的马�
 
 
 
-### 3、懒加载
+### 懒加载
 
 组件支持使用 **[vue-lazyload](https://github.com/hilongjw/vue-lazyload)** 来进行图片懒加载。
 
