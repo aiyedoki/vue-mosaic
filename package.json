@@ -1,6 +1,6 @@
 {
   "name": "@kidoki/vue-mosaic",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Vue module, which is used to convert html content into mosaic.",
   "main": "index.js",
   "scripts": {
